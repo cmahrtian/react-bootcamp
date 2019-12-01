@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import Projects from './Projects'
+import ProfileLinks from './ProfileLinks'
 
 class App extends Component {
     state = {
@@ -32,6 +33,7 @@ class App extends Component {
                 }
                 <hr />
                 <Projects />
+                <ProfileLinks />
             </div>
         )
     }
