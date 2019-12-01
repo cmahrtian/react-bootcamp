@@ -27,7 +27,7 @@ class SocialProfiles extends Component {
     render() {
         return (
             <div>
-                <h3>Contact or Follow Me</h3>
+                <h3>Connect With Chris</h3>
                 <div>
                     {
                         SOCIAL_PROFILES.map(profile => {
