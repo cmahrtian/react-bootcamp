@@ -7,22 +7,26 @@ const SOCIAL_PROFILES = [
   {
     id: 1,
     link: 'mailto:mahrtian@gmail.com',
-    image: emailIcon
+    image: emailIcon,
+    altText: 'email'
   },
   {
     id: 2,
     link: 'https://github.com/cmahrtian',
-    image: githubIcon
+    image: githubIcon,
+    altText: 'github'
   },
   {
     id: 3,
     link: 'https://www.linkedin.com/in/cmahrtian',
-    image: linkedinIcon
+    image: linkedinIcon,
+    altText: 'linkedin'
   },
   {
     id: 4,
     link: 'https://twitter.com/cmahrtian',
-    image: twitterIcon
+    image: twitterIcon,
+    altText: 'twitter'
   }
 ]
 
